@@ -1,8 +1,8 @@
 {
-  "manifest_version": 2,
-  "name": "github gifv support",
+  "manifest_version": 3,
+  "name": "github gifv support - qrohlf fork",
   "description": "Add gifv support to github comments",
-  "version": "1.0.2",
+  "version": "1.0.3",
 
   "browser_action": {
     "default_title": "Support gifv files in github comments",
